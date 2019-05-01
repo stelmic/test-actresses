@@ -1,9 +1,0 @@
-should i go tomorrow?
-
-yes
-
-no
-
-yes
-
-no
